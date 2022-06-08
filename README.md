@@ -1,19 +1,27 @@
-### Portifólio👋
+### OLá Mundo ,i am Marcos Ferreira
 
-<!--
-**maferrepy/maferrepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Um professor em transiçao  para ciencia de dados.
 
-Here are some ideas to get you started:
 
-- 🔭  Atualmente tenho estudo e dedicado muito para tornar minha transição de carreira uma realidade. 
-Desde meados de 2021 venho me esforçando para aprender sobre Data Science e isso tem me motivado bastante para essa mudança. 
-Às vezes me perguntam: Qual o motivo para mudar agora? Por que escolheu a área de tecnologia? Enfim, são muitas perguntas. 
-Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente novo, mas que me satisfaz profissionalmente. 🚀🧑‍💻💻
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 oI'm currently studyinout: Python, Power BI, SQL
+-maferre
+
+- 📫  email: marcosferreira123@hotmail.com
+
+- 💡Estou interessado em tudo relacionado a dados: IA, Machine Learning e Data Science.
+
+<div align="center">
+  <a href="https://github.com/maferrepy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maferrepy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maferrepy&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  
+  
+  <img align="center" alt="marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <i class="devicon-kaggle-original-wordmark"></i>
+  <img align = "center" alt="marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" >
+   <img align = "center" alt="marcos-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align = "center" alt="marcos-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+</div>
+  
