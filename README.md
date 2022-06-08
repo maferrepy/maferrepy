@@ -4,7 +4,6 @@
 
 
 - 🌱 oI'm currently studyinout: Python, Power BI, SQL
--maferre
 
 - 📫  email: marcosferreira123@hotmail.com
 
