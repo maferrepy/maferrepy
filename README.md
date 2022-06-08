@@ -1,11 +1,14 @@
-### Hi there 👋
+### Portifólio👋
 
 <!--
 **maferrepy/maferrepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭  Atualmente tenho estudo e dedicado muito para tornar minha transição de carreira uma realidade. 
+Desde meados de 2021 venho me esforçando para aprender sobre Data Science e isso tem me motivado bastante para essa mudança. 
+Às vezes me perguntam: Qual o motivo para mudar agora? Por que escolheu a área de tecnologia? Enfim, são muitas perguntas. 
+Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente novo, mas que me satisfaz profissionalmente. 🚀🧑‍💻💻
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
