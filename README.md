@@ -7,7 +7,7 @@
 
 - 📫  email: marcosferreira123@hotmail.com
 
-- 💡Estou interessado em tudo relacionado a dados: IA, Machine Learning e Data Science.
+- 💡I'm interested in everything related to data: IA, Machine Learning e Data Science.
 
 <div align="left">
   <a href="https://github.com/maferrepy">
