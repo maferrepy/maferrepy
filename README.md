@@ -1,6 +1,6 @@
-### OLá Mundo ,i am Marcos Ferreira
+### hello world,i am Marcos Ferreira
 
-### Um professor em transiçao  para ciencia de dados.
+### Um professor em transiçao  para Ciências de Dados.
 
 
 - 🌱 oI'm currently studyinout: Python, Power BI, SQL
