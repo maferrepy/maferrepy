@@ -1,9 +1,9 @@
 ### hello world,i am Marcos Ferreira
 
-### Um professor em transiçao  para Ciências de Dados.
+### ."Construindo o futuro com Python, linha por linha."
 
 
-- 🌱 oI'm currently studyinout: Python, Power BI, SQL
+- 🌱 oI'm currently studyinout: Python, Power BI, SQL,WS
 
 - 📫  email: marcosferreira123@hotmail.com
 
